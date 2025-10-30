@@ -90,7 +90,7 @@
 	    bindings = <
 		&kp ESC	    &trans	&kp VDESKL  &kp VDESKR	&kp W		&trans	    &kp TERML	&kp TERMR   &kp END	&kp CAPS
 		&sk LALT    &sk LGUI	&sk LSHIFT  &sk LCTRL	&kp RALT	&kp LEFT    &kp DOWN	&kp UP	    &kp RIGHT	&kp DEL
-		&kp LG(Z)   &kp LG(X)	&kp LG(C)   &kp TAB	&kp LG(V)	&kp WDEL    &kp BSPC	&kp SCSHT   &trans	&mo SETTINGS
+		&kp LC(Z)   &kp LC(X)	&kp LC(C)   &kp TAB	&kp LC(V)	&kp WDEL    &kp BSPC	&kp SCSHT   &trans	&mo SETTINGS
 						    &trans	&kp LCTRL	&kp ENTER   &mo FNC
 	    >;
 	};
